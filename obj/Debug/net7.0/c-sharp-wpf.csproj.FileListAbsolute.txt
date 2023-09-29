@@ -1,0 +1,14 @@
+/Users/hannes/vscode-workspace/c-sharp-wpf/bin/Debug/net7.0/c-sharp-wpf
+/Users/hannes/vscode-workspace/c-sharp-wpf/bin/Debug/net7.0/c-sharp-wpf.deps.json
+/Users/hannes/vscode-workspace/c-sharp-wpf/bin/Debug/net7.0/c-sharp-wpf.runtimeconfig.json
+/Users/hannes/vscode-workspace/c-sharp-wpf/bin/Debug/net7.0/c-sharp-wpf.dll
+/Users/hannes/vscode-workspace/c-sharp-wpf/bin/Debug/net7.0/c-sharp-wpf.pdb
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.AssemblyInfoInputs.cache
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.AssemblyInfo.cs
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.csproj.CoreCompileInputs.cache
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.dll
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/refint/c-sharp-wpf.dll
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.pdb
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/c-sharp-wpf.genruntimeconfig.cache
+/Users/hannes/vscode-workspace/c-sharp-wpf/obj/Debug/net7.0/ref/c-sharp-wpf.dll
